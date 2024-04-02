@@ -1,0 +1,55 @@
+.pricing {
+  background-color: #f5f5f5;
+  padding: 100px 0px 100px 0px;
+}
+.priopt-wrap {
+  margin-bottom: 68px;
+}
+.lititle {
+  padding: 12px;
+  background-color: #333333;
+  font: "Open Sans";
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  color: #ffffff;
+  width: 340px;
+  height: 50px;
+  margin-bottom: 2px;
+}
+.price {
+  padding: 27px;
+  background-color: #333333;
+  font: Raleway;
+  font-size: 35px;
+  font-weight: 700;
+  text-align: center;
+  color: #ffffff;
+  width: 340px;
+  height: 100px;
+  margin-bottom: 2px;
+}
+.subli {
+  padding: 15px;
+  background-color: #333333;
+  font: "Open Sans";
+  font-size: 14px;
+  font-weight: 600;
+  text-align: center;
+  color: #86878b;
+  width: 340px;
+  height: 50px;
+  margin-bottom: 4px;
+}
+.list {
+  padding: 15px;
+  background-color: #ffffff;
+  font: "Open Sans";
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
+  color: #86878b;
+  width: 340px;
+  height: 50px;
+  margin-bottom: 4px;
+}
